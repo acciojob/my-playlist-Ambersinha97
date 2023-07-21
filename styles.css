@@ -14,3 +14,6 @@ body {
 .head {
 	text: center;
 }
+a {
+	text-decoration-line: none;
+}
